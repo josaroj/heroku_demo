@@ -9,3 +9,6 @@
 
 #3.Add this to the script
 "heroku-postbuild":"npm run build"
+
+Heroku Cli
+yarn global add heroku
